@@ -1,0 +1,37 @@
+body {
+	background: url("catbackground.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Gruppo', cursive;
+	font-weight: ;
+	color: white;
+}
+
+h1 {
+  width: 620px;
+  padding: 0 0 0 0px;
+  margin: 0px auto 0px auto;
+  text-align: center;
+}
+
+a {
+	float: right;
+	color: white;
+	font-size: 24px;
+	margin-top: 2%;
+}
+
+#Menu {
+	margin-right: 5%;
+}
+
+#Contact {
+	margin-right: 15%;
+}
+
+p {
+	width: 600px;
+	margin: 20px auto;
+	font-size: 22px;
+}
+
